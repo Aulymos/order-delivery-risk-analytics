@@ -1,0 +1,13 @@
+Segment,Category,Eligible order count,Late order count,Late-delivery rate
+Customer Segment,Home Office,11266,6505.0,0.5774010296467247
+Customer Segment,Consumer,32614,18672.0,0.5725148709143313
+Customer Segment,Corporate,19017,10871.0,0.5716464216227586
+Market,Pacific Asia,16853,9720.0,0.5767519136058862
+Market,USCA,8178,4704.0,0.5752017608217168
+Market,Europe,17763,10199.0,0.5741710296684118
+Market,LATAM,16414,9339.0,0.5689655172413793
+Market,Africa,3689,2086.0,0.5654648956356736
+Shipping Mode,First Class,9602,9602.0,1.0
+Shipping Mode,Second Class,12256,9803.0,0.799853133159269
+Shipping Mode,Same Day,3407,1648.0,0.48371000880540066
+Shipping Mode,Standard Class,37632,14995.0,0.3984640731292517

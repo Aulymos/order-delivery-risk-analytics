@@ -1,0 +1,3 @@
+metric,dummy_baseline,logistic_regression,absolute_improvement
+Average Precision (AP),0.5758964879852125,0.8381864459721974,0.26228995798698485
+ROC-AUC,0.5,0.7473203188776218,0.24732031887762185

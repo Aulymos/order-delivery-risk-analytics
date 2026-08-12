@@ -1,0 +1,33 @@
+# Virtual environments
+portfolio_venv/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw and intermediate data
+data/raw/*
+data/interim/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary Office and Power BI files
+~$*
+*.pbix.autorecover
+*.pbix.autorecovery
